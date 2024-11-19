@@ -9,6 +9,7 @@ To design and implement a 2:1 multiplexer (MUX) circuit using Cadence EDA tools,
 ![WhatsApp Image 2024-11-13 at 17 18 04_bc5d2779](https://github.com/user-attachments/assets/7d01593f-2198-432d-90a8-c78652784498)
 
 S C H E M A T I C S I M U L A T I O N
+
 PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION
 Commands to get into Cadence
 1.	Right Click and open the terminal window
@@ -101,6 +102,6 @@ For Transient Analysis Settings and Output
 
  
 
-Results:
+### Results:
 1.	The experiment successfully demonstrated the design and implementation of a 2:1 MUX using Cadence EDA tools. 
 2.	The successful verification through schematic, layout, and simulation underscores the effectiveness of using Cadence EDA tools for digital circuit design.
