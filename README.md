@@ -1,10 +1,11 @@
 # EXP02--Design-Implementation-of-Full-Custom-2-1-MUX-using-Cadence-EDA-Tools
 Experiment -2 
-Aim:
+### Aim:
 To design and implement a 2:1 multiplexer (MUX) circuit using Cadence EDA tools, analyse its functionality and performance, and understand the principles of digital logic design, including schematic creation, layout design, and simulation.
-Tools Required:
-•	Personal Computer
-•	Cadence Virtuoso Software
+### Tools Required:
+-	Personal Computer
+-	Cadence Virtuoso Software
+### Circuit Diagram:
 
 S C H E M A T I C S I M U L A T I O N
 PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION
@@ -90,8 +91,7 @@ Analog simulation by SPECTRE.
 
 For Transient Analysis Settings and Output
  ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
-
- ![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
+ ![D2](https://github.com/user-attachments/assets/6805e24b-eb02-43f6-a54e-10a73cdebd54)
 
 
 
